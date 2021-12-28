@@ -1,0 +1,288 @@
+[[ParseGen]]
+arch = "aarch64"
+git-tree-sha1 = "939cd4a702f19afa6ee0ba6676760636f9ca932d"
+os = "macos"
+
+    [[ParseGen.download]]
+    sha256 = "9e195a38d871fe3f1fcc85646a40a66e5cbb0e1a791d2fb35f586ce2e215f76b"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[ParseGen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9333b17c9744dcb8eb0cdcb2818a456025bcbce6"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "f42cc08627e8443e8f39b686a077a9b3b16e5c3554e2045c71447c58bc5ac0c4"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ParseGen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f53c23ae3534318f255a6fdbbdae33b5877dd868"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "91f9b56cc00d0eccbcb2e59ad70e1e53e45de616f66d314b45f97f5330972593"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ParseGen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b3bfc183cccb287ad5a77506b761d162bc56cb85"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "91d309650826d6ae07495f4c38aa0cdff80096b86971a001fd11846ba2226199"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ParseGen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f9d9831a5d35b1d5d97e72fa872aadd4d1a35c5b"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "82bb2801bf6c464af3030b46a61255d70b2a91d52d332d38c8c498d01fab2608"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ParseGen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e898f8927ab332c15b66025bd6bf968deae8a040"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "5ef6cbace07e896f5044bb67cbaa1739fb80b9f65474e554c888200e4d20d27f"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[ParseGen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11ef8206369bb9f8d1978bad1ce9462ba04ffdd3"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "65057f2dfd4128fca662ab5586994af93130ba7768a59a488ca3378087b62bf4"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ParseGen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43cceb71477b3c45dd96a354a8605729c62a9cbc"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "7296d04aed6413390e41f9a2ff20bb1b4df178043234c0082990ad875696651b"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[ParseGen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b7403cd2c3c17187b7f640f4b1e90e46e0dc38e"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "fda823adfec3bebf0465d2e1033a9bfcbe02ccd66a0f4933a442a2257bede57c"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ParseGen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "83e7e08de53c03d5bbe5f8c49f279c443d2820cb"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "024d1361bc907db3cd00cbb01228f8d9b194f8b6b2f15c101128ea1e543bd63c"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ParseGen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ecd2f910257ef504157809f2e5e4040c2d2cdbff"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "6bbfee0662f9e91cb735f3a6b93870eace4388021a2b74432eb9d1e8b9b91e04"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ParseGen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "762842669746ee43ac1119b79991d3fec42b9f88"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "8777d52e618ca2ce81c6bceead8e553a602af3ad091fd77db2518449a3397d88"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ParseGen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7202addc76591453c79d1af7ed19c5543836bb2"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "1b35b54637f6b7a280c933ad3b0f33c21fd424df8940bc863d0825cd184c0b8b"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ParseGen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee53fc08facc7c663c63bf4e306d21c6b64e3297"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "665f34e3ff876cc56fb377799e97501dbbfbfc60dee69acde55bc8a638525fbf"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[ParseGen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c67c00772de2cd5d8f5aa738f79376e179e4bf18"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "ddffbb1cd2839eba293710f842607536b640eaab32ed1766ab4b3c4344b130f9"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[ParseGen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d45a28caf04fe58b3c700c8578e8808702b33e17"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "e666f18e6545cc47f69698e43d4120b90b7045b79b29811e59371329627d9fd7"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.i686-linux-musl-cxx03.tar.gz"
+[[ParseGen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27306c00e875c7133750739047750cfdb868c26f"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "f3011a22168817e5e911280924182e1d5d29a07eb1f75dfb393fb84bf3e29fac"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.i686-linux-musl-cxx11.tar.gz"
+[[ParseGen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "653745edd3b404456e7de22aca36a30a55e6829c"
+os = "windows"
+
+    [[ParseGen.download]]
+    sha256 = "8b21dfd05813528b3c70a2d35f4abaaa79e26430ce16da2cb40cbb174f676cd0"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[ParseGen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d805f2dd50b12914be49f36d1308ac3e9a62193e"
+os = "windows"
+
+    [[ParseGen.download]]
+    sha256 = "b3762178d721a9a29cae8ea2ad57ec7e8d3bcf6865157e372700ef85727d844e"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[ParseGen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "71d2a6c661c7bf255ebd946ba73015f941a7010a"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "4bd0d09d5e4525167b9e900cf300004592ed215b16bbcd25ec206d25462d42be"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ParseGen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "149d5998134d81c7559555446a4eb67ddebf7b1b"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "4cf96fb966c9c91615ea2cdfc7f1e7d41d49e5c921615f86b0f1d6ca721e3352"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+git-tree-sha1 = "22f525c5f9d9ed092f24d0f753a310abd1795b6a"
+os = "macos"
+
+    [[ParseGen.download]]
+    sha256 = "85dce293ed5da71ae5381c76da570438a1cafa52e5d097371fed0917b8959541"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c582648995428c402a5b6455701accfe5a76bdb"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "c0e0b723aa8cdd4d46cc16bbf707114fe4f8df1c55a1179e09b7649b1dd8097d"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "626c1417b705bb1fe379f2ecf43f2cddbbbe09a7"
+libc = "glibc"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "6c6ad3d9a274b667e0d517b3b25ec9ea5290b0aa55f648ba545c92eaa2643a66"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d8012f5e172b58e960d441e43eb1338ae44b03d9"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "db0223e5c15c62050ee5b7647ee7f52549a289173401a34dc848b37eeb9aeee3"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57e0c673e77d5f84859bde13e3ba51f27c7d4fa6"
+libc = "musl"
+os = "linux"
+
+    [[ParseGen.download]]
+    sha256 = "80b0600970ec9e8c32460a799e7949ec983bfa8cf73078cf0eb6706543c8265e"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+git-tree-sha1 = "dbf4438d51febefa46e6d874e1ae7c2b9673b775"
+os = "freebsd"
+
+    [[ParseGen.download]]
+    sha256 = "c880f449dc4fa662c28426395d9b6a2b17a2ed2750a90899b69eafea3fb4ed78"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4e93a50954ef1da511e7d30eea42b4d4e680049"
+os = "windows"
+
+    [[ParseGen.download]]
+    sha256 = "4366aa99e25b231ce034d08be95c5d29a2d6d7d6f9e443202d12dc86581b324d"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ParseGen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52db5b84770e1f34fd93f38e526b043ead838066"
+os = "windows"
+
+    [[ParseGen.download]]
+    sha256 = "f794735048f3f2e30856de49f1eb6c6d6311e04886dcf2d6529950c195a5efa0"
+    url = "https://github.com/JuliaBinaryWrappers/ParseGen_jll.jl/releases/download/ParseGen-v2.0.0+0/ParseGen.v2.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
